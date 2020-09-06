@@ -10,5 +10,6 @@ body {
 /* Here is one of many  CSS rules you will need... */
 #one {
    border-color: orange;
+   border-style: solid;
    color: blue; 
 }
