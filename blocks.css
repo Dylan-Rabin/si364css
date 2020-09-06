@@ -14,8 +14,9 @@ body {
    margin: 5px;
    padding: 5px;
    position: fixed;
-   left: 25%;
+   left: 0%;
    top: 0%;
+   width: 25%;
 }
 #two {
    border-style: solid;
@@ -24,8 +25,9 @@ body {
    margin: 5px;
    padding: 5px;
    position: fixed;
-   right: 25%;
+   right: 0%;
    top: 0%;
+   width: 25%;
 }
 #three {
    border-style: solid;
@@ -34,8 +36,9 @@ body {
    margin: 5px;
    padding: 5px;
    position: fixed;
-   left: 25%;
+   left: 0%;
    bottom: 0%;
+   width: 25%;
 }
 #four {
    border-style: solid;
@@ -44,6 +47,7 @@ body {
    margin: 5px;
    padding: 5px;
    position: fixed;
-   right: 25%;
+   right: 0%;
    bottom: 0%;
+   width: 25%;
 }
