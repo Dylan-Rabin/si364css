@@ -53,5 +53,7 @@ body {
 }
 #link {
    text-align: center;
-   color: #3d59c6;
+   background-color: #3d59c6;
+   font-family: helvetica neue,Helvetica,Arial,sans-serif;
+   color: #fefefe;
 }
