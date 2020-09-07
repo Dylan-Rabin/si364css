@@ -53,15 +53,16 @@ body {
 }
 a {
    text-decaration: none;
-   text-align: center;
    display: inline;
+   text-align: center;
    background-color: #3d59c6;
    font-family: helvetica neue,Helvetica,Arial,sans-serif;
    color: #fefefe;
 }
 #link {
-   text-align: center;
+   text-decaration: none;
    display: inline;
+   text-align: center;
    background-color: #3d59c6;
    font-family: helvetica neue,Helvetica,Arial,sans-serif;
    color: #fefefe;
