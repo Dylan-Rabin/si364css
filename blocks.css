@@ -53,7 +53,7 @@ body {
 }
 a {
    text-decoration: none;
-   display: inline;
+   display: table;
    margin: 0 auto;
    text-align: center;
    background-color: #3d59c6;
