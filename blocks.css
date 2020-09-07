@@ -51,8 +51,12 @@ body {
    bottom: 0%;
    width: 25%;
 }
+a {
+   text-decaration: none;
+}
 #link {
    text-align: center;
+   display: inline;
    background-color: #3d59c6;
    font-family: helvetica neue,Helvetica,Arial,sans-serif;
    color: #fefefe;
